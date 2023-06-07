@@ -15,3 +15,7 @@ Necesitas la versión Tapper[DC], ésta versión tiene el modo CGA y CGA composi
 El programa convertirá las imágenes bmp para el juego, y después copia los archivos generados (rgbidata y ntscdata) al directorio de tapper,
 sobreescribiendo los originales. 
 
+
+<img src="image1.png">
+
+<img src="image2.png">
