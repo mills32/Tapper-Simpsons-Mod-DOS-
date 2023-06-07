@@ -5,7 +5,7 @@ ENG
 
 You need Tapper[DC], this version has CGA and CGA composite modes, Also has all data uncompressed in separate files.
 
-The program will convert the bmp images and Then copy all generated files (rgbidata and ntscdata) to tapper folder and overwrite the original ones.
+The program will convert the bmp images, and then it will copy all generated files (rgbidata and ntscdata) to tapper folder overwriting the original ones.
 
 
 ESP
